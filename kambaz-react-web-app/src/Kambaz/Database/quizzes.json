@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "q001",
+    "title": "HTML Basics Quiz",
+    "points": 20,
+    "dueDate": "2025-04-15T23:59:00",
+    "availableFrom": "2025-04-10T08:00:00",
+    "availableUntil": "2025-04-15T23:59:00",
+    "course": "RS101",
+    "questions": 10,
+    "score": 85
+  },
+  {
+    "_id": "q002",
+    "title": "CSS Fundamentals",
+    "points": 25,
+    "dueDate": "2025-04-20T18:00:00",
+    "availableFrom": "2025-04-15T09:00:00",
+    "availableUntil": "2025-04-20T23:59:00",
+    "course": "RS101",
+    "questions": 8,
+    "score": 92
+  },
+  {
+    "_id": "q003",
+    "title": "JavaScript Essentials",
+    "points": 30,
+    "dueDate": "2025-04-25T12:00:00",
+    "availableFrom": "2025-04-20T07:30:00",
+    "availableUntil": "2025-04-25T23:59:00",
+    "course": "RS101",
+    "questions": 12,
+    "score": 88
+  }
+]

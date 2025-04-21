@@ -1,0 +1,96 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body * {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@media (min-width: 768px) {
+  #wd-kambaz .wd-main-content-offset {
+    padding-left: 140px !important;
+  }
+}
+
+.btn-secondary {
+  --bs-btn-color: #000 !important;
+  --bs-btn-bg: #c7cdd1 !important;
+  --bs-btn-border-color: #c7cdd1 !important;
+  --bs-btn-hover-color: #fff !important;
+}
+
+.bg-secondary {
+  --bs-secondary-rgb: 199, 205, 209;
+}
+
+.list-group-item {
+  --bs-list-group-border-color: gray;
+}
+
+.wd-lesson {
+  border-left: 3px solid green !important;
+}
+
+.wd-assignment {
+  border-left: 3px solid green !important;
+}
+.assign-input-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: 1px solid rgb(240, 240, 240);
+  border-radius: 6px;
+  padding: 6px;
+}
+.assign-badge {
+  background-color: rgb(240, 240, 240);
+  border-radius: 6px;
+  align-items: center;
+  padding: 6px 10px;
+  position: absolute;
+  left: 10px;
+}
+.assign-input {
+  border: none;
+  outline: none;
+  flex-grow: 1;
+  padding-left: 0px;
+}
+.assign-input.form-control {
+  border: none !important;
+  box-shadow: none !important;
+  background-color: transparent !important;
+}
+.custom-date-input::-webkit-calendar-picker-indicator {
+  background-color: rgb(240, 240, 240);
+  padding: 10px;
+  border-radius: 0.25;
+  width: 1rem;
+  height: 50%;
+  position: absolute;
+  right: 0;
+  cursor: pointer;
+}
+.assign-add-section {
+  background-color: #f8f8f8;
+  padding: 10px;
+  margin: 10px -17px -17px -17px; /* 重点：负 margin 把 padding 抵消 */
+  border-top: 1px solid #ccc;
+  border-left: 1px dashed #ccc;
+  border-right: 1px dashed #ccc;
+  border-bottom: 1px dashed #ccc;
+  border-radius: 0 0 8px 8px;
+  cursor: pointer;
+  color: #333;
+  font-weight: 500;
+  font-size: 16px;
+  text-align: center;
+}
+.quiz-editor .nav-tabs .nav-link {
+  color: red !important;
+}
+
+.quiz-editor .nav-tabs .nav-link.active {
+  color: black !important;
+}

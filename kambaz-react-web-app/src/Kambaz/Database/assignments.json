@@ -1,0 +1,146 @@
+[
+    {
+        "_id": "A101",
+        "title": "Propulsion Assignment",
+        "course": "RS101",
+        "description": "Analyze the fundamental principles of rocket propulsion and apply them to real-world scenarios."
+    },
+    {
+        "_id": "A102",
+        "title": "Combustion Analysis",
+        "course": "RS101",
+        "description": "Examine different combustion processes in rocket engines and their efficiency."
+    },
+    {
+        "_id": "A103",
+        "title": "Nozzle Design Project",
+        "course": "RS101",
+        "description": "Design an optimal rocket nozzle for a given mission profile and justify design choices."
+    },
+    {
+        "_id": "A201",
+        "title": "Aerodynamics Quiz",
+        "course": "RS102",
+        "description": "Multiple-choice and short-answer questions on basic aerodynamic principles."
+    },
+    {
+        "_id": "A202",
+        "title": "Flow Analysis",
+        "course": "RS102",
+        "description": "Analyze airflow over different shapes and evaluate lift and drag forces."
+    },
+    {
+        "_id": "A203",
+        "title": "Heating Analysis",
+        "course": "RS102",
+        "description": "Evaluate aerodynamic heating effects on high-speed aerospace vehicles and mitigation techniques."
+    },
+    {
+        "_id": "A301",
+        "title": "Structural Design Task",
+        "course": "RS103",
+        "description": "Design and analyze a spacecraft structure for different stress and load conditions."
+    },
+    {
+        "_id": "A302",
+        "title": "Orbital Calculations",
+        "course": "RS103",
+        "description": "Perform calculations on orbital maneuvers, trajectory adjustments, and mission planning."
+    },
+    {
+        "_id": "A303",
+        "title": "Systems Engineering Exam",
+        "course": "RS103",
+        "description": "Assess knowledge of spacecraft subsystems, integration, and mission planning."
+    },
+    {
+        "_id": "A401",
+        "title": "Organic Molecule Synthesis",
+        "course": "RS104",
+        "description": "Synthesize and analyze an organic molecule based on given parameters."
+    },
+    {
+        "_id": "A402",
+        "title": "Spectroscopic Analysis",
+        "course": "RS104",
+        "description": "Interpret IR, NMR, and Mass Spectrometry data to determine molecular structures."
+    },
+    {
+        "_id": "A403",
+        "title": "Reaction Mechanisms",
+        "course": "RS104",
+        "description": "Solve reaction mechanisms for various organic synthesis reactions."
+    },
+    {
+        "_id": "A501",
+        "title": "Coordination Chemistry Report",
+        "course": "RS105",
+        "description": "Study and report on the properties of metal complexes and their applications."
+    },
+    {
+        "_id": "A502",
+        "title": "Crystal Field Theory Assignment",
+        "course": "RS105",
+        "description": "Apply crystal field theory to explain bonding and color in transition metal complexes."
+    },
+    {
+        "_id": "A503",
+        "title": "Inorganic Compound Synthesis",
+        "course": "RS105",
+        "description": "Synthesize an inorganic compound and analyze its structural properties."
+    },
+    {
+        "_id": "A601",
+        "title": "Thermodynamics Problem Set",
+        "course": "RS106",
+        "description": "Solve problems related to thermodynamic laws and their application in chemical reactions."
+    },
+    {
+        "_id": "A602",
+        "title": "Quantum Mechanics Quiz",
+        "course": "RS106",
+        "description": "Assess knowledge of quantum mechanics concepts relevant to physical chemistry."
+    },
+    {
+        "_id": "A603",
+        "title": "Spectroscopy Report",
+        "course": "RS106",
+        "description": "Analyze spectroscopic data and relate it to molecular energy levels."
+    },
+    {
+        "_id": "A701",
+        "title": "Elvish Language Translation",
+        "course": "RS107",
+        "description": "Translate a passage from Sindarin or Quenya and analyze linguistic structures."
+    },
+    {
+        "_id": "A702",
+        "title": "Dwarvish Runes Analysis",
+        "course": "RS107",
+        "description": "Study and interpret inscriptions written in Khuzdul and their historical significance."
+    },
+    {
+        "_id": "A703",
+        "title": "Black Speech Linguistics",
+        "course": "RS107",
+        "description": "Examine the grammatical structure of the Black Speech of Mordor."
+    },
+    {
+        "_id": "A801",
+        "title": "Council of Elrond Case Study",
+        "course": "RS108",
+        "description": "Analyze the diplomatic strategies employed during the Council of Elrond."
+    },
+    {
+        "_id": "A802",
+        "title": "Inter-Species Diplomacy Report",
+        "course": "RS108",
+        "description": "Evaluate the diplomatic relations between different Middle-earth races."
+    },
+    {
+        "_id": "A803",
+        "title": "War of the Ring Negotiation Simulation",
+        "course": "RS108",
+        "description": "Simulate and role-play diplomatic negotiations during the War of the Ring."
+    }
+]

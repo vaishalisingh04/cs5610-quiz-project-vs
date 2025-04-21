@@ -1,0 +1,53 @@
+[
+    {
+      "_id": "qs001",
+      "title": "Is HTML a programming language?",
+      "points": 2,
+      "text": "<p>Is HTML considered a programming language?</p>",
+      "correctAnswer": false,
+      "type": "True/False",
+      "quiz": "q001",
+      "course": "RS101"
+    },
+    {
+      "_id": "qs002",
+      "title": "HTML Tag for Images",
+      "points": 3,
+      "text": "<p>Which tag is used to insert an image in HTML?</p>",
+      "correctAnswer": "img",
+      "type": "Multiple Choice",
+      "quiz": "q001",
+      "course": "RS101"
+    },
+    {
+      "_id": "qs003",
+      "title": "Basic Structure of HTML",
+      "points": 2,
+      "text": "<p>An HTML document must start and end with &lt;____&gt; tags.</p>",
+      "correctAnswer": "html",
+      "type": "Fill in the Blank",
+      "quiz": "q001",
+      "course": "RS101"
+    },
+    {
+      "_id": "qs004",
+      "title": "DOCTYPE Declaration",
+      "points": 2,
+      "text": "<p>The DOCTYPE declaration for HTML5 is: &lt;!DOCTYPE html&gt;.</p>",
+      "correctAnswer": true,
+      "type": "True/False",
+      "quiz": "q001",
+      "course": "RS101"
+    },
+    {
+      "_id": "qs005",
+      "title": "Hyperlink Tag in HTML",
+      "points": 3,
+      "text": "<p>Which tag is used to create a hyperlink in HTML?</p>",
+      "correctAnswer": "a",
+      "type": "Multiple Choice",
+      "quiz": "q001",
+      "course": "RS101"
+    }
+  ]
+  
